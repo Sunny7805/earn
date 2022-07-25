@@ -1,0 +1,60 @@
+h1{
+    color: red;
+}
+.section_1,h1{
+    display: flex;
+    list-style-type:none;
+    
+    font-family: 'Roboto', sans-serif;
+    word-spacing: 40px;
+    
+}
+
+.home{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    border-style: outset;
+    border-color: grey grey aqua grey ;
+    color: orangered;
+    margin-right:  4px ;
+    background-color: rgb(201, 255, 9);
+    
+
+}
+.dashboard{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    border-style: outset;
+    border-color: grey grey aqua grey;
+    color: orangered;
+    margin-right:  4px ;
+    background-color: rgb(201, 255, 9);
+    
+}
+.rewards{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    border-style: outset;
+    border-color: grey grey aqua grey;
+    color: orangered;
+    margin-right:  4px ;
+    background-color: rgb(201, 255, 9);
+}
+.wallet{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    border-style: outset;
+    border-color: grey grey aqua grey;
+    color: orangered;
+    margin-right:  4px ;
+    background-color: rgb(201, 255, 9);
+}
+.Transaction{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    border-style: outset;
+    border-color: grey grey aqua grey;
+    color: orangered;
+    margin-right:  4px ;
+    background-color: rgb(201, 255, 9);
+}
